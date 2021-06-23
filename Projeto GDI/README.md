@@ -1,1 +1,0 @@
-Projeto voltado para gerenciamento de Igrejas.
